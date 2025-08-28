@@ -6,7 +6,7 @@ const Career = () => {
       <div className="career-container">
         <h2>
           My career <span>&</span>
-          <br /> experience
+          <br /> education
         </h2>
         <div className="career-info">
           <div className="career-timeline">
@@ -15,43 +15,43 @@ const Career = () => {
           <div className="career-info-box">
             <div className="career-info-in">
               <div className="career-role">
-                <h4>Position In Company</h4>
-                <h5>Company Name</h5>
+                <h4>Bachelor of Computer Applications</h4>
+                <h5>PDM University</h5>
               </div>
-              <h3>20XX</h3>
+              <h3>2022-2025</h3>
             </div>
             <p>
-              Lorem ipsum dolor sit amet consectetur adipisicing elit. Enim
-              labore sit non ipsum temporibus quidem, deserunt eaque officiis
-              mollitia ratione suscipit repellat.
+              Currently pursuing BCA with focus on programming, data structures, 
+              and software development. Gained foundational knowledge in computer 
+              science principles and practical programming skills.
             </p>
           </div>
           <div className="career-info-box">
             <div className="career-info-in">
               <div className="career-role">
-                <h4>Position In Company</h4>
-                <h5>Company Name</h5>
+                <h4>Prompt Engineer (Internship)</h4>
+                <h5>YAL.ai (Remote)</h5>
               </div>
-              <h3>20XX</h3>
+              <h3>Apr-Jun 2025</h3>
             </div>
             <p>
-              Lorem ipsum dolor sit amet consectetur adipisicing elit. Enim
-              labore sit non ipsum temporibus quidem, deserunt eaque officiis
-              mollitia ratione suscipit repellat.
+              Designed optimized prompts for ChatGPT workflows and automated tasks with 
+              Python & Google Workspace APIs. Created Custom GPTs for internal workflows 
+              and gained hands-on experience with VPS for automation scripting.
             </p>
           </div>
           <div className="career-info-box">
             <div className="career-info-in">
               <div className="career-role">
-                <h4>Position In Company</h4>
-                <h5>Company Name</h5>
+                <h4>Data Associate (Full-time)</h4>
+                <h5>YAL.ai (Remote)</h5>
               </div>
-              <h3>NOW</h3>
+              <h3>Jul 2025 - Present</h3>
             </div>
             <p>
-              Lorem ipsum dolor sit amet consectetur adipisicing elit. Enim
-              labore sit non ipsum temporibus quidem, deserunt eaque officiis
-              mollitia ratione suscipit repellat.
+              Currently handling data processing, cleaning, and organizing for AI systems. 
+              Developing Python automation tools with PyAutoGUI, Selenium, and Google 
+              Workspace integration. Working on cloud development with AWS VPS & RDP servers.
             </p>
           </div>
         </div>

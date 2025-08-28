@@ -13,14 +13,14 @@ import {
 
 const textureLoader = new THREE.TextureLoader();
 const imageUrls = [
-  "/images/react2.webp",
-  "/images/next2.webp",
-  "/images/node2.webp",
-  "/images/express.webp",
-  "/images/mongo.webp",
-  "/images/mysql.webp",
-  "/images/typescript.webp",
+  "/images/python.webp",
+  "/images/flask.webp",
+  "/images/aws.webp",
+  "/images/selenium.webp",
+  "/images/google-workspace.webp",
   "/images/javascript.webp",
+  "/images/git.webp",
+  "/images/bash.webp",
 ];
 const textures = imageUrls.map((url) => textureLoader.load(url));
 
@@ -168,7 +168,7 @@ const TechStack = () => {
 
   return (
     <div className="techstack">
-      <h2> My Techstack</h2>
+      <h2> My Tech Stack</h2>
 
       <Canvas
         shadows

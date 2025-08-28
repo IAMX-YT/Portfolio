@@ -6,9 +6,10 @@ const About = () => {
       <div className="about-me">
         <h3 className="title">About Me</h3>
         <p className="para">
-          Lorem ipsum dolor sit amet consectetur adipisicing elit. Hic quis
-          dolores numquam iusto Ratione earum ducimus autem id iure pariatur
-          dolorum quae maiores.
+          Tech enthusiast and Data Associate at YAL.ai.<br />
+          Grew from Prompt Engineering intern to full-time via Python automation.<br />
+          I build AI assistants, chatbots, and automation with Selenium, APIs, and AWS.<br />
+          Open to collaborations in AI, automation, and cloud projects.
         </p>
       </div>
     </div>
